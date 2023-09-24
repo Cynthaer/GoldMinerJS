@@ -1,0 +1,2 @@
+# GoldMinerJS
+Test incremental game
